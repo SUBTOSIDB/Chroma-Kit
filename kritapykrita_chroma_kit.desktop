@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=chroma_kit
+X-Python-2-Compatible=true
+Name=Chroma Kit
+Comment=UI theme presets for Krita by SubToSidb. Load built-in or custom QSS themes, retint the whole interface, and toggle optional canvas textures.

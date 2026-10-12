@@ -1,0 +1,20 @@
+{
+  "name": "Darker Wine Red",
+  "border": "#330000",
+  "border_hover": "#cc6666",
+  "bg": "#000000",
+  "bg_hover": "#1a0000",
+  "bg_selected": "#1a0000",
+  "bg_pressed": "#4d0000",
+  "text": "#cc6666",
+  "text_disabled": "#993333",
+  "accent": "#cc6666",
+  "accent_bright": "#ff9999",
+  "gradient": true,
+  "gradient_start": "#000000",
+  "gradient_end": "#1a1a1a",
+  "gradient_mid1": "#0a0a0a",
+  "gradient_mid2": "#1a0000",
+  "glow_color": "#4d0000",
+  "glow_size": 2
+}

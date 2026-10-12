@@ -1,0 +1,13 @@
+{
+  "name": "Dark Wine Red",
+  "border": "#4d0000",
+  "border_hover": "#cc6666",
+  "bg": "#000000",
+  "bg_hover": "#220011",
+  "bg_selected": "#440011",
+  "bg_pressed": "#660011",
+  "text": "#cc6666",
+  "text_disabled": "#993333",
+  "accent": "#cc6666",
+  "accent_bright": "#ff9999"
+}

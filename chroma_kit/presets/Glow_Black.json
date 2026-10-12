@@ -1,0 +1,20 @@
+{
+  "name": "Glow Black",
+  "border": "#000000",
+  "border_hover": "#ff6666",
+  "bg": "#000000",
+  "bg_hover": "#330000",
+  "bg_selected": "#550000",
+  "bg_pressed": "#770000",
+  "text": "#ff6666",
+  "text_disabled": "#553333",
+  "accent": "#ff6666",
+  "accent_bright": "#ff9999",
+  "gradient": true,
+  "gradient_start": "#000000",
+  "gradient_end": "#550000",
+  "gradient_mid1": "#1a0000",
+  "gradient_mid2": "#330000",
+  "glow_color": "#ff6666",
+  "glow_size": 3
+}
